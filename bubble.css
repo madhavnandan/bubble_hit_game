@@ -41,6 +41,7 @@ html,body{
     align-items: center;
     padding: 0px 3%;
     gap: 20px;
+    flex-wrap: wrap;
 
 }
 
@@ -63,6 +64,7 @@ html,body{
     justify-content: center;
     font-size: 22px;
     font-weight: 600;
+    border-radius: 5px;
 
 }
 
